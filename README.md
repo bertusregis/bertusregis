@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bertus, an <a href="https://linkedin.com/in/bertus-regis-07224b2a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Bertus, an <a href="https://linkedin.com/in/bertus-regis-07224b2a">IT Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
